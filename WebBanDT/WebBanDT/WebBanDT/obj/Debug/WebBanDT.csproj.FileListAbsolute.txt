@@ -1,0 +1,792 @@
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\ApplicationInsights.config
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\WebBanDT.dll.config
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\WebBanDT.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\WebBanDT.pdb
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\csc.exe
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\csc.exe.config
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\csc.rsp
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\csi.exe
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\csi.exe.config
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\csi.rsp
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\System.AppContext.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\System.Console.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\System.Security.Claims.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\vbc.exe
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\vbc.exe.config
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\vbc.rsp
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\Antlr3.Runtime.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\Microsoft.AI.Web.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\Newtonsoft.Json.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\System.Web.Helpers.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\System.Web.Mvc.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\System.Web.Optimization.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\System.Web.Razor.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\System.Web.WebPages.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\WebGrease.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\System.Web.Helpers.xml
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\System.Web.Mvc.xml
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\System.Web.Optimization.xml
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\System.Web.Razor.xml
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\System.Web.WebPages.xml
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\Antlr3.Runtime.pdb
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\Newtonsoft.Json.xml
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\Microsoft.AI.Web.xml
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\obj\Debug\WebBanDT.csprojResolveAssemblyReference.cache
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\obj\Debug\WebBanDT.csproj.CoreCompileInputs.cache
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\obj\Debug\WebBanDT.csproj.CopyComplete
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\obj\Debug\WebBanDT.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\obj\Debug\WebBanDT.pdb
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\EntityFramework.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\EntityFramework.SqlServer.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\EntityFramework.xml
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\EntityFramework.SqlServer.xml
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\PagedList.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\PagedList.Mvc.dll
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\PagedList.xml
+C:\Users\Pham Dat\source\repos\WebBanDT\WebBanDT\bin\PagedList.Mvc.xml
+D:\CNWEB\WebBanDT\WebBanDT\bin\ApplicationInsights.config
+D:\CNWEB\WebBanDT\WebBanDT\bin\WebBanDT.dll.config
+D:\CNWEB\WebBanDT\WebBanDT\bin\WebBanDT.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\WebBanDT.pdb
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\csc.exe
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\csc.exe.config
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\csc.rsp
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\csi.exe
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\csi.exe.config
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\csi.rsp
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.AppContext.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Collections.Immutable.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Console.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Diagnostics.Process.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.IO.Compression.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.IO.FileSystem.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.IO.Pipes.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Reflection.Metadata.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Security.AccessControl.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Security.Claims.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Security.Principal.Windows.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Threading.Thread.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.ValueTuple.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Xml.XPath.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\vbc.exe
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\vbc.exe.config
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\vbc.rsp
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\VBCSCompiler.exe
+D:\CNWEB\WebBanDT\WebBanDT\bin\roslyn\VBCSCompiler.exe.config
+D:\CNWEB\WebBanDT\WebBanDT\bin\Antlr3.Runtime.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\EntityFramework.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\EntityFramework.SqlServer.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.AI.Agent.Intercept.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.AI.DependencyCollector.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.AI.Web.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.AI.WindowsServer.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.ApplicationInsights.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.Web.Infrastructure.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\Newtonsoft.Json.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\PagedList.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\PagedList.Mvc.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\System.Web.Helpers.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\System.Web.Mvc.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\System.Web.Optimization.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\System.Web.Razor.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\System.Web.WebPages.Deployment.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\System.Web.WebPages.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\System.Web.WebPages.Razor.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\WebGrease.dll
+D:\CNWEB\WebBanDT\WebBanDT\bin\EntityFramework.xml
+D:\CNWEB\WebBanDT\WebBanDT\bin\EntityFramework.SqlServer.xml
+D:\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CNWEB\WebBanDT\WebBanDT\bin\PagedList.xml
+D:\CNWEB\WebBanDT\WebBanDT\bin\PagedList.Mvc.xml
+D:\CNWEB\WebBanDT\WebBanDT\bin\System.Web.Helpers.xml
+D:\CNWEB\WebBanDT\WebBanDT\bin\System.Web.Mvc.xml
+D:\CNWEB\WebBanDT\WebBanDT\bin\System.Web.Optimization.xml
+D:\CNWEB\WebBanDT\WebBanDT\bin\System.Web.Razor.xml
+D:\CNWEB\WebBanDT\WebBanDT\bin\System.Web.WebPages.xml
+D:\CNWEB\WebBanDT\WebBanDT\bin\System.Web.WebPages.Deployment.xml
+D:\CNWEB\WebBanDT\WebBanDT\bin\System.Web.WebPages.Razor.xml
+D:\CNWEB\WebBanDT\WebBanDT\bin\Antlr3.Runtime.pdb
+D:\CNWEB\WebBanDT\WebBanDT\bin\Newtonsoft.Json.xml
+D:\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.ApplicationInsights.xml
+D:\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.AI.DependencyCollector.xml
+D:\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.AI.WindowsServer.xml
+D:\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.AI.Web.xml
+D:\CNWEB\WebBanDT\WebBanDT\obj\Debug\WebBanDT.csprojResolveAssemblyReference.cache
+D:\CNWEB\WebBanDT\WebBanDT\obj\Debug\WebBanDT.csproj.CoreCompileInputs.cache
+D:\CNWEB\WebBanDT\WebBanDT\obj\Debug\WebBanDT.csproj.CopyComplete
+D:\CNWEB\WebBanDT\WebBanDT\obj\Debug\WebBanDT.dll
+D:\CNWEB\WebBanDT\WebBanDT\obj\Debug\WebBanDT.pdb
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\ApplicationInsights.config
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\WebBanDT.dll.config
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\WebBanDT.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\WebBanDT.pdb
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\csc.exe
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\csc.exe.config
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\csc.rsp
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\csi.exe
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\csi.exe.config
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\csi.rsp
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.AppContext.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Collections.Immutable.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Console.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Diagnostics.Process.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.IO.Compression.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.IO.FileSystem.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.IO.Pipes.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Reflection.Metadata.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Security.AccessControl.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Security.Claims.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Threading.Thread.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.ValueTuple.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Xml.XPath.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\vbc.exe
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\vbc.exe.config
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\vbc.rsp
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\VBCSCompiler.exe
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\roslyn\VBCSCompiler.exe.config
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\Antlr3.Runtime.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\EntityFramework.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\EntityFramework.SqlServer.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.AI.DependencyCollector.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.AI.Web.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.AI.WindowsServer.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.ApplicationInsights.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.Web.Infrastructure.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\Newtonsoft.Json.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\PagedList.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\PagedList.Mvc.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\System.Web.Helpers.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\System.Web.Mvc.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\System.Web.Optimization.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\System.Web.Razor.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\System.Web.WebPages.Deployment.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\System.Web.WebPages.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\System.Web.WebPages.Razor.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\WebGrease.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\EntityFramework.xml
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\EntityFramework.SqlServer.xml
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\PagedList.xml
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\PagedList.Mvc.xml
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\System.Web.Helpers.xml
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\System.Web.Mvc.xml
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\System.Web.Optimization.xml
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\System.Web.Razor.xml
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\System.Web.WebPages.xml
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\System.Web.WebPages.Deployment.xml
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\System.Web.WebPages.Razor.xml
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\Antlr3.Runtime.pdb
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\Newtonsoft.Json.xml
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.ApplicationInsights.xml
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.AI.DependencyCollector.xml
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.AI.WindowsServer.xml
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.AI.Web.xml
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\obj\Debug\WebBanDT.csproj.CoreCompileInputs.cache
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\obj\Debug\WebBanDT.csproj.CopyComplete
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\obj\Debug\WebBanDT.dll
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\obj\Debug\WebBanDT.pdb
+D:\Cnweb\CNWEB\WebBanDT\WebBanDT\obj\Debug\WebBanDT.csprojResolveAssemblyReference.cache
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\ApplicationInsights.config
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\WebBanDT.dll.config
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\WebBanDT.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\WebBanDT.pdb
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\csc.exe
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\csc.exe.config
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\csc.rsp
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\csi.exe
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\csi.exe.config
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\csi.rsp
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.AppContext.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Collections.Immutable.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Console.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Diagnostics.Process.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.IO.Compression.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.IO.FileSystem.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.IO.Pipes.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Reflection.Metadata.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Security.AccessControl.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Security.Claims.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Security.Principal.Windows.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Threading.Thread.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.ValueTuple.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Xml.XmlDocument.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Xml.XPath.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\vbc.exe
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\vbc.exe.config
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\vbc.rsp
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\VBCSCompiler.exe
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\roslyn\VBCSCompiler.exe.config
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\Antlr3.Runtime.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\EntityFramework.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\EntityFramework.SqlServer.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.AI.Agent.Intercept.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.AI.DependencyCollector.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.AI.Web.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.AI.WindowsServer.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.ApplicationInsights.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.Web.Infrastructure.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\Newtonsoft.Json.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\PagedList.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\PagedList.Mvc.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\System.Web.Helpers.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\System.Web.Mvc.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\System.Web.Optimization.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\System.Web.Razor.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\System.Web.WebPages.Deployment.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\System.Web.WebPages.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\System.Web.WebPages.Razor.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\WebGrease.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\EntityFramework.xml
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\EntityFramework.SqlServer.xml
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\PagedList.xml
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\PagedList.Mvc.xml
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\System.Web.Helpers.xml
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\System.Web.Mvc.xml
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\System.Web.Optimization.xml
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\System.Web.Razor.xml
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\System.Web.WebPages.xml
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\System.Web.WebPages.Deployment.xml
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\System.Web.WebPages.Razor.xml
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\Antlr3.Runtime.pdb
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\Newtonsoft.Json.xml
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.ApplicationInsights.xml
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.AI.DependencyCollector.xml
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.AI.WindowsServer.xml
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\bin\Microsoft.AI.Web.xml
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\obj\Debug\WebBanDT.csproj.CoreCompileInputs.cache
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\obj\Debug\WebBanDT.dll
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\obj\Debug\WebBanDT.pdb
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\obj\Debug\WebBanDT.csproj.CopyComplete
+E:\công nghệ web\CNWEB\WebBanDT\WebBanDT\obj\Debug\WebBanDT.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\obj\Debug\WebBanDT.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\obj\Debug\WebBanDT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\obj\Debug\WebBanDT.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\obj\Debug\WebBanDT.pdb
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\ApplicationInsights.config
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\WebBanDT.dll.config
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\WebBanDT.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\WebBanDT.pdb
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\PagedList.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\PagedList.Mvc.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\WebGrease.dll
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\PagedList.xml
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\PagedList.Mvc.xml
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Downloads\WebBanDT\WebBanDT\obj\Debug\WebBanDT.csproj.CopyComplete
+D:\WebBanDT\WebBanDT\WebBanDT\bin\ApplicationInsights.config
+D:\WebBanDT\WebBanDT\WebBanDT\bin\WebBanDT.dll.config
+D:\WebBanDT\WebBanDT\WebBanDT\bin\WebBanDT.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\WebBanDT.pdb
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\csc.exe
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\csc.exe.config
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\csc.rsp
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\csi.exe
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\csi.exe.config
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\csi.rsp
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.AppContext.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Collections.Immutable.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Console.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Diagnostics.Process.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.IO.Compression.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.IO.FileSystem.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.IO.Pipes.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Reflection.Metadata.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Security.AccessControl.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Security.Claims.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Security.Principal.Windows.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Threading.Thread.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.ValueTuple.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Xml.XPath.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\vbc.exe
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\vbc.exe.config
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\vbc.rsp
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\VBCSCompiler.exe
+D:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\VBCSCompiler.exe.config
+D:\WebBanDT\WebBanDT\WebBanDT\bin\Antlr3.Runtime.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\EntityFramework.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\EntityFramework.SqlServer.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.AI.Agent.Intercept.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.AI.DependencyCollector.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.AI.Web.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.AI.WindowsServer.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.ApplicationInsights.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.Web.Infrastructure.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\Newtonsoft.Json.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\PagedList.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\PagedList.Mvc.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.Helpers.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.Mvc.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.Optimization.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.Razor.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.WebPages.Deployment.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.WebPages.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.WebPages.Razor.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\WebGrease.dll
+D:\WebBanDT\WebBanDT\WebBanDT\bin\EntityFramework.xml
+D:\WebBanDT\WebBanDT\WebBanDT\bin\EntityFramework.SqlServer.xml
+D:\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WebBanDT\WebBanDT\WebBanDT\bin\PagedList.xml
+D:\WebBanDT\WebBanDT\WebBanDT\bin\PagedList.Mvc.xml
+D:\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.Helpers.xml
+D:\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.Mvc.xml
+D:\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.Optimization.xml
+D:\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.Razor.xml
+D:\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.WebPages.xml
+D:\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.WebPages.Deployment.xml
+D:\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.WebPages.Razor.xml
+D:\WebBanDT\WebBanDT\WebBanDT\bin\Antlr3.Runtime.pdb
+D:\WebBanDT\WebBanDT\WebBanDT\bin\Newtonsoft.Json.xml
+D:\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.ApplicationInsights.xml
+D:\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.AI.DependencyCollector.xml
+D:\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.AI.WindowsServer.xml
+D:\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.AI.Web.xml
+D:\WebBanDT\WebBanDT\WebBanDT\obj\Debug\WebBanDT.csprojAssemblyReference.cache
+D:\WebBanDT\WebBanDT\WebBanDT\obj\Debug\WebBanDT.csproj.CoreCompileInputs.cache
+D:\WebBanDT\WebBanDT\WebBanDT\obj\Debug\WebBanDT.csproj.CopyComplete
+D:\WebBanDT\WebBanDT\WebBanDT\obj\Debug\WebBanDT.dll
+D:\WebBanDT\WebBanDT\WebBanDT\obj\Debug\WebBanDT.pdb
+F:\WebBanDT\WebBanDT\WebBanDT\bin\ApplicationInsights.config
+F:\WebBanDT\WebBanDT\WebBanDT\bin\WebBanDT.dll.config
+F:\WebBanDT\WebBanDT\WebBanDT\bin\WebBanDT.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\WebBanDT.pdb
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\csc.exe
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\csc.exe.config
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\csc.rsp
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\csi.exe
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\csi.exe.config
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\csi.rsp
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.AppContext.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Collections.Immutable.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Console.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Diagnostics.Process.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.IO.Compression.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.IO.FileSystem.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.IO.Pipes.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Reflection.Metadata.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Security.AccessControl.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Security.Claims.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Security.Principal.Windows.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Threading.Thread.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.ValueTuple.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Xml.XmlDocument.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Xml.XPath.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\vbc.exe
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\vbc.exe.config
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\vbc.rsp
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\VBCSCompiler.exe
+F:\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\VBCSCompiler.exe.config
+F:\WebBanDT\WebBanDT\WebBanDT\bin\Antlr3.Runtime.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\EntityFramework.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\EntityFramework.SqlServer.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.AI.Agent.Intercept.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.AI.DependencyCollector.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.AI.Web.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.AI.WindowsServer.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.ApplicationInsights.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.Web.Infrastructure.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\Newtonsoft.Json.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\PagedList.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\PagedList.Mvc.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.Helpers.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.Mvc.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.Optimization.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.Razor.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.WebPages.Deployment.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.WebPages.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.WebPages.Razor.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\WebGrease.dll
+F:\WebBanDT\WebBanDT\WebBanDT\bin\EntityFramework.xml
+F:\WebBanDT\WebBanDT\WebBanDT\bin\EntityFramework.SqlServer.xml
+F:\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\WebBanDT\WebBanDT\WebBanDT\bin\PagedList.xml
+F:\WebBanDT\WebBanDT\WebBanDT\bin\PagedList.Mvc.xml
+F:\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.Helpers.xml
+F:\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.Mvc.xml
+F:\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.Optimization.xml
+F:\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.Razor.xml
+F:\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.WebPages.xml
+F:\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.WebPages.Deployment.xml
+F:\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.WebPages.Razor.xml
+F:\WebBanDT\WebBanDT\WebBanDT\bin\Antlr3.Runtime.pdb
+F:\WebBanDT\WebBanDT\WebBanDT\bin\Newtonsoft.Json.xml
+F:\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.ApplicationInsights.xml
+F:\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.AI.DependencyCollector.xml
+F:\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.AI.WindowsServer.xml
+F:\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.AI.Web.xml
+F:\WebBanDT\WebBanDT\WebBanDT\obj\Debug\WebBanDT.csprojAssemblyReference.cache
+F:\WebBanDT\WebBanDT\WebBanDT\obj\Debug\WebBanDT.csproj.CoreCompileInputs.cache
+F:\WebBanDT\WebBanDT\WebBanDT\obj\Debug\WebBanDT.csproj.CopyComplete
+F:\WebBanDT\WebBanDT\WebBanDT\obj\Debug\WebBanDT.dll
+F:\WebBanDT\WebBanDT\WebBanDT\obj\Debug\WebBanDT.pdb
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\ApplicationInsights.config
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\WebBanDT.dll.config
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\WebBanDT.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\WebBanDT.pdb
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\PagedList.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\WebGrease.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\PagedList.xml
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\obj\Debug\WebBanDT.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\obj\Debug\WebBanDT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\obj\Debug\WebBanDT.csproj.CopyComplete
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\obj\Debug\WebBanDT.dll
+C:\Users\Admin\Desktop\WebBanDT\WebBanDT\WebBanDT\obj\Debug\WebBanDT.pdb

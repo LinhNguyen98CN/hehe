@@ -1,0 +1,71 @@
+﻿@using PagedList.Mvc
+@using PagedList
+@model IPagedList<WebBanDT.Models.Data.Phone>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Layout/LayoutManage.cshtml";
+}
+
+<h2 align="center" style="font-size:50px;color:red;">Quản lí sản phẩm</h2>
+
+<table class="table table-bordered mytable " style="font-size: 13px;margin-top:20px">
+    <tr style="background-color:lightseagreen;color:white">
+        <th>
+            Hãng ĐT
+        </th>
+        <th>
+            Tên ĐT
+        </th>
+        <th width="250px">
+            Hình Ảnh
+        </th>
+        <th>
+            Giá
+        </th>
+        <th>
+            Trạng Thái
+        </th>
+        <th>
+            Mô Tả
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Manufacturer.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                <img src="~/imageTel/@Html.DisplayFor(modelItem => item.Image)" width="250px" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Configuration)
+            </td>
+            <td>
+                @Html.ActionLink("Create", "Create", new { Id = item.Id.Trim() }) |
+                @Html.ActionLink("Edit", "Edit", new { Id = item.Id.Trim() }) |
+                @Html.ActionLink("Delete", "Delete", new { Id = item.Id.Trim() })
+            </td>
+        </tr>
+    }
+
+
+</table>
+
+
+@Html.PagedListPager(Model, pageTemp => Url.Action("Index", new { pageTemp = pageTemp }), new PagedListRenderOptions()
+{
+    LiElementClasses = new List<string> { "button", "item" }
+}).

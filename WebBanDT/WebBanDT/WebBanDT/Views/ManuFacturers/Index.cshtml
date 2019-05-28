@@ -1,0 +1,28 @@
+﻿@model IEnumerable<WebBanDT.Models.Data.Manufacturer>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Layout/LayoutManage.cshtml";
+}
+
+
+
+
+<table class="table table-bordered mytable " style="font-size: 13px;margin-top:20px">
+    <tr style="background-color:lightseagreen;color:white">
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+        </tr>
+    }
+
+</table>

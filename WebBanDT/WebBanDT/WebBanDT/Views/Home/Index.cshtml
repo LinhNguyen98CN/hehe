@@ -1,0 +1,71 @@
+﻿@using PagedList.Mvc
+@using PagedList
+@model IPagedList<WebBanDT.Models.Data.Phone>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Layout/View.cshtml";
+}
+
+@using (Html.BeginForm("Index", "Home", FormMethod.Get))
+{
+    <p style="margin-top:20px;margin-left:800px">
+        @Html.TextBox("SearchString") <input type="submit" value="Tìm kiếm" />
+    </p>
+}
+    <table class="table table-bordered mytable " style="font-size: 13px;margin-top:20px">
+        <tr style="background-color:lightseagreen;color:white">
+            <th>
+                Hãng ĐT
+            </th>
+            <th>
+                Tên ĐT
+            </th>
+            <th width="250px">
+                Hình Ảnh
+            </th>
+            <th>
+                Giá
+            </th>
+            <th>
+                Trạng Thái
+            </th>
+            <th>
+                Mô Tả
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Manufacturer.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    <img src="~/imageTel/@Html.DisplayFor(modelItem => item.Image)" width="250px" />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Status)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Configuration)
+                </td>
+                <td>
+                    <a class="btn btn-success btn-sm" href="@Url.Action("AddItem", "Cart", new { id=item.Id.Trim() })"> <span class="glyphicon glyphicon-shopping-cart"></span>Thêm vào giỏ </a>
+                </td>
+            </tr>
+        }
+
+    </table>
+
+@Html.PagedListPager(Model, pageTemp => Url.Action("Index", new { pageTemp = pageTemp }), new PagedListRenderOptions()
+{
+    LiElementClasses = new List<string> { "button", "item" }
+}).

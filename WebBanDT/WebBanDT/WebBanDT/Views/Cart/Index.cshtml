@@ -1,0 +1,70 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+@model List<WebBanDT.Models.CartItem>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Layout/LayoutCart.cshtml";
+}
+
+
+<div class="content">
+    <div class="section group">
+        @if (Model.Count > 0)
+        {
+        <table class="table table-bordered mytable " style="font-size: 13px;margin-top:40px">
+            <tr style="background-color:lightseagreen;color:white">
+                <td>Mã SP</td>
+                <td>Tên SP</td>
+                <td>Ảnh SP</td>
+                <td>Số lượng</td>
+                <td>Đơn giá</td>
+                <td>Thành tiền</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Sanpham.Id</td>
+                        <td>@item.Sanpham.Name</td>
+                        <td><img src="~/imageTel/@item.Sanpham.Image" width="150" /></td>
+                        @using (Html.BeginForm("UpdateCart", "Cart", new { @id = item.Sanpham.Id.Trim() }, FormMethod.Post, new { role = "form" }))
+                        {
+
+                            <td>
+                                <input type="text" name="txtQuantity" value="@item.Quantity" class="form-control" />
+                            </td>
+                            <td>@item.Sanpham.Price)</td>
+                            <td>@((item.Sanpham.Price * item.Quantity))</td>
+                            <td>
+                                <input type="submit" value="Cập nhật" class="btn btn-link" />
+                            </td>
+                        }
+                        <td><a href="/Cart/RemoveLine/@item.Sanpham.Id" data-id="@item.Sanpham.Id" class="btn btn-link">Xóa</a></td>
+                    </tr>
+                }
+                <tr>
+                    <td colspan="4"></td>
+                    <td>Tổng giá trị</td>
+                    <td>
+                        @ViewBag.TongTien.ToString("N0")
+                    </td>
+                    <td colspan="2"></td>
+                </tr>
+            </tbody>
+        </table>
+
+            <a href="http://localhost:52401/Home/Index" class="btn">Tiếp tục mua hàng</a>
+            <a href="/Customers/Create" class="btn">Thanh toán</a>
+        }
+        else
+        {
+            <div align ="center" style="font-size:30px">Chưa có sản phẩm nào trong giỏ hàng!</div>
+        }
+    </div>
+</div>

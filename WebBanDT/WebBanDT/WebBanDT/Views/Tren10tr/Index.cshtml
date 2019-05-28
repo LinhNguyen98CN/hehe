@@ -1,0 +1,68 @@
+﻿@model IEnumerable<WebBanDT.Models.Tren10tr>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Layout/View.cshtml";
+}
+
+<h2>Index</h2>
+
+
+<table class="table table-bordered mytable " style="font-size: 13px;margin-top:20px">
+    <tr style="background-color:lightseagreen;color:white">
+        <th>
+            Tên ĐT
+            @*  @Html.DisplayNameFor(model => model.Name)*/*@
+        </th>
+        <th width="250px">
+            Hình Ảnh
+            @*@Html.DisplayNameFor(model => model.Image)*@
+        </th>
+        <th>
+            Hãng ĐT
+            @*@Html.DisplayNameFor(model => model.ManufacturerName)*@
+        </th>
+        <th>
+            Giá
+            @*@Html.DisplayNameFor(model => model.Price)*@
+        </th>
+        <th>
+            Trạng Thái
+            @*@Html.DisplayNameFor(model => model.Status)*@
+        </th>
+        <th>
+            Mô Tả
+            @*@Html.DisplayNameFor(model => model.Configuration)*@
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                <img src="~/imageTel/@Html.DisplayFor(modelItem => item.Image)" width="250px" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ManufacturerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Configuration)
+            </td>
+            <td>
+                <a class="btn btn-success btn-sm" href="@Url.Action("AddItem", "Cart", new { id=item.Id.Trim() })"> <span class="glyphicon glyphicon-shopping-cart"></span>Thêm vào giỏ </a>
+            </td>
+        </tr>
+    }
+
+</table>
+
